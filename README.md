@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odysseyboy
-- 👀 I’m interested in ... learning java and c
-- 🌱 I’m currently learning ...C
+- 👀 I’m interested in ... learning python and arduino
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
