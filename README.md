@@ -1,4 +1,4 @@
-#  Ruan Machado Donati
+#  🧑‍💻Ruan Machado Donati
 
 **`Desenvolvedor Back-end`**
 
