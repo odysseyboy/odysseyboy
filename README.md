@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me Ruan Machado Donati, tenho 23 anos e sou natural de Ponta Grossa. Cursando Analise e Desenvolvimento de Sistemas pelo SENAC.
+Me Ruan Machado Donati, tenho 24 anos e sou natural de Ponta Grossa. Cursando Analise e Desenvolvimento de Sistemas pelo SENAC.
 
 <p align="left">
     </a> 
